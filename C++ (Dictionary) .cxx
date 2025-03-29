@@ -26,10 +26,10 @@ int main() {
     cout << "information about a system's performance";
 	}
 	else if (search == "GENERATOR") {
-    cout << "a machine that converts energy 	into electricity";
+    cout << "a machine that converts energy into electricity";
 	}
 	else if (search == "HARDWARE") {
-    cout << "physical components of a 		computer system";
+    cout << "physical components of a computer system";
 	}
 	else if (search == "INTERFACE") {
     cout << "a connection between two systems";
